@@ -1,0 +1,12 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: var(--color-grey);
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: var(--box-shadow);
+    overflow: hidden;
+}
